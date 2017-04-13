@@ -43,5 +43,5 @@ for line in leadp:
 			lines.append(s)
 
 #print a random sample of lines and join at periods once
-print ". ".join(random.sample(lines, 9))
+print ".\n\n ".join(random.sample(lines, 9))
 	
